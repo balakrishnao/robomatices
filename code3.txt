@@ -1,2 +1,0 @@
-This is my first reset
-Now I try to check the  differences between fetch 
